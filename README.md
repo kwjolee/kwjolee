@@ -1,6 +1,6 @@
 ## Hi I'm Kwang 👋
 
-I am a software engineer interested in creating readable and maintainable solutions. 
+I am a software engineer with experience building fullstack applications. I am interested in creating readable and maintainable solutions. 
 
 My most recent project is [Telegraph](https://telegraph-notify.github.io/), an open-source, serverless framework for integrating real-time notifications into existing applications. Check out the case study to learn more about it!
 
