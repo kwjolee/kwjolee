@@ -2,7 +2,7 @@
 
 I am a software engineer interested in creating readable and maintainable solutions. 
 
-My most recent project is [Telegraph](https://telegraph-notify.github.io/), an open-source, serverless framework for integreating real-time notifications into existing applications. Check out the case study to learn more about it!
+My most recent project is [Telegraph](https://telegraph-notify.github.io/), an open-source, serverless framework for integrating real-time notifications into existing applications. Check out the case study to learn more about it!
 
 ### 📫 You can reach me at
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kwang-lee/)
